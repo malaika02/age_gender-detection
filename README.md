@@ -1,6 +1,3 @@
-
-Age and Gender Detection
-Overview
 This project uses a Convolutional Neural Network (CNN) implemented with TensorFlow and Keras to detect age and gender from facial images. The model is trained on the UTKFace dataset, which contains a wide variety of faces labeled with age, gender, and ethnicity.
 
 Dataset
